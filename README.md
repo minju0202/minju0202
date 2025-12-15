@@ -15,10 +15,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlaalswn222&show_icons=true&count_private=true&hide=issues&bg_color=fff8eb&title_color=ff69b4&text_color=ff8e99&icon_color=ff8e99">
-</p>
-
 <h3 align="center"> 🛠 SNS 🛠 </h3>
 
 <p align="center">
@@ -36,35 +32,12 @@
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&loColor=white">
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&loColor=white">
-</p>
-
-<h4 align="center">  AI / Data  </h4>
- <p align="center">
-   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&logoColor=black">
-
-  <!-- Data Notebook -->
-  <br>
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
-
-  <!-- DevOps / Infra -->
-  <br>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/virtualbox-2F61B4?style=flat&logo=virtualbox&logoColor=white">
-
+<h4 align="center"> 
   <!-- VCS -->
   <br>
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-
-  <!-- Database -->
-  <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-
-  <!-- IDE -->
-  <br>
   <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white">
 </p>
 
@@ -72,22 +45,9 @@
 <h4 align="center"> Development </h4>
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white">
-
-  <!-- Web Frameworks -->
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-
-  <!-- App / Framework -->
-  <br>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 </p>
 
@@ -96,5 +56,5 @@
 
 
 <div align="center">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
