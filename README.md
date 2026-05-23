@@ -8,10 +8,10 @@
   <img src="https://github.com/rlaalswn222/rlaalswn222/assets/89075360/a9447cf9-da68-48fc-8cad-dcca5c207038" alt="Ciao, Salut">
 </p>
 <p align="center">
-  🔮
+  🔮 
 </p>
 <p align="center">
-🚀🚀🚀 생명 데이터를 다루는 일을 합니다 🧬🧪💻
+🚀🚀🚀 cv segmentation & detection 🧬🧪💻
 </p>
 
 
